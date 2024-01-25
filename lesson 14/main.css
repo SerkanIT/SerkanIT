@@ -1,0 +1,176 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style:none;
+}
+
+.fotos {
+    margin-top: 50px;
+    display: flex;
+    margin: 20px 20px 20px 200px;
+    align-items: center;
+    margin-right: 60px;
+}
+
+.fotos2 {
+    margin-top: 50px;
+    display: flex;
+    margin: 20px 20px 20px 200px;
+    align-items: center;
+}
+
+.loreem {
+    color: black;
+}
+
+
+.text {
+    margin-top: 70px;
+}
+
+
+.text1 {
+    margin-top: 60px;
+}
+
+.video {
+    margin-top: 30px;
+}
+
+.line42 {
+    width: 95px;
+    height: 4px;
+    background-color: grey;
+    margin: -23px 345px;
+
+}
+
+.eye {
+    margin: 0 0 0 -523px;
+    justify-content: start;
+    align-items: center;
+
+}
+
+.logo {
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.logo1 {
+    margin-left: 60px;
+}
+
+.logo2 {
+    margin-left: 60px;
+}
+
+.logo3 {
+    margin-left: 60px;
+}
+
+.logo4 {
+    margin-left: 60px;
+}
+
+.siction {
+    background-color: #EEEFF1;
+    padding-top: 100px;
+}
+
+.finish {
+    color: black;
+    margin-top: 20px;
+    width: 500px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.finish2 {
+    margin-top: 40px;
+    width: 540px;
+    height: 67px;
+    margin: 40px auto 0;
+    color: black;
+    text-align: center;
+
+}
+
+.input {
+    width: 255px;
+    height: 35px;
+    margin: 0 auto;
+}
+
+.admin {
+    text-align: center;
+}
+
+.admin2 {
+    text-align: center;
+}
+
+
+.btnn {
+    border: none;
+    margin-top: 20px;
+    background-color: #34547A;
+    color: white;
+    border-radius: 0px;
+    padding: 16px 20px;
+    margin-top: 60px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+text-align: center;
+}
+
+.soob {
+    margin-top: 20px;
+}
+.bt{
+    text-align: center;
+}
+
+.finishdf{
+   
+    height: 100px;
+    display: flex;
+    background-color: #34547A;
+    margin-top: 100px;
+}
+.finish3{
+    text-align: center;
+    margin: 0 auto;
+    align-items: center;
+    margin-left: 559px;
+}
+
+h1>p{
+    margin: 0px 0px 0px;
+    padding-top: 30px;
+    padding-left: 200px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4{
+
+    padding-top: 5px;
+    padding-left: 150px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrap-rightttt{
+    display: flex;
+margin: -40px 10px 10px 1100px;
+gap: 10px;
+}
